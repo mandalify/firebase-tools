@@ -37,6 +37,7 @@
     "standalone",
     "templates"
   ],
+  "types": "./src/index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/firebase/firebase-tools.git"
